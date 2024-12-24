@@ -12,10 +12,10 @@ Este projeto é um **Bloco de Notas**. A aplicação permite ao usuário escreve
 ---
 
 ## Funcionalidades
-- Criar novas notas.
-- Editar e salvar notas existentes.
-- Excluir notas.
-- Interface intuitiva e simples.
+1. Criar novas notas.
+2. Editar e salvar notas existentes.
+3. Excluir notas.
+4. Interface intuitiva e simples.
 
 ---
 
